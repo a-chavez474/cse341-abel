@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "645268ac190b8e291b8e9649"
+  },
+  "birthDay": "05/05/1969",
+  "favoriteColor": "Blue",
+  "firstName": "Abel",
+  "lastname": "Chavez"
+},{
+  "_id": {
+    "$oid": "64573920190b8e291b8e964c"
+  },
+  "firstName": "Melany",
+  "lastNmae": "Chavez",
+  "email": "greatest@gmail.com",
+  "favoriteColor": "Yellow",
+  "birthDay": "05/05/2007"
+},{
+  "_id": {
+    "$oid": "64573920190b8e291b8e964d"
+  },
+  "firstName": "Adela",
+  "lastNmae": "Chavez",
+  "email": "greatest2@gmail.com",
+  "favoriteColor": "Yellow",
+  "birthDay": "05/05/1965"
+},{
+  "_id": {
+    "$oid": "64573920190b8e291b8e964e"
+  },
+  "firstName": "Sparky",
+  "lastNmae": "Chavez",
+  "email": "greatest3@gmail.com",
+  "favoriteColor": "Blue",
+  "birthDay": "05/05/2010"
+}]
